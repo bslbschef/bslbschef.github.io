@@ -33,10 +33,42 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% assign authors = post.authorlist | split: ", " %}
+    {% for a in authors %}
+      {% if a==authors.last %}
+          {% if a=='Biaosheng Luo' %}
+            <b>Biaosheng Luo</b>.
+          {% else %}
+            {{a}}.
+          {% endif %}
+      {% else %}
+          {% if a=='Biaosheng Luo' %}
+            <b>Biaosheng Luo</b>,
+          {% elsif a=='Biaosheng Luo*' %}
+            <b>Biaosheng Luo*</b>,
+          {% else %}
+            {{a}},
+          {% endif %}
+      {% endif %}
+    {% endfor %}<br>
+      {% if post.status == 'pub' %}
+        In <b><i>{{post.venue}}</i></b> {{post.year}}.
+      {% elsif post.status == 'acc' %}
+        To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
+      {% elsif post.status == 'sub' %}
+        Under review.
+      {% else %}
+        <i>Work in progress.</i>
+      {% endif %}
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" rel="permalink">[Download paper]</a>
+      {% endif %}
+      {% if post.code %}
+        <a href="{{ post.code }}" rel="permalink">[code]</a>
+      {% endif %}
+      {% if post.video %}
+        <a href="{{ post.video }}" rel="permalink">[video]</a>
+      {% endif %}
     </li>
  </article>
 </div>
