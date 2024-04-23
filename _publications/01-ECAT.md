@@ -7,7 +7,7 @@ date: 2024-04-01
 venue: "Chemical Engineering Journal"
 year: 2024
 paperurl: "https://www.sciencedirect.com/science/article/pii/S1385894724013469"
-code: "https://github.com/likuanppd/STABLE"
+# code: ""
 authorlist: "Biaosheng Luo, Baiyu Lu, Xi Gao, Cheng Li"
 status: 'pub'
 ---
