@@ -8,7 +8,7 @@ venue: "Atmospheric Measurement Techniques"
 year: 2024
 # paperurl: "https://www.sciencedirect.com/science/article/pii/S1385894724013469"
 # code: "https://github.com/likuanppd/STABLE"
-authorlist: "Xiaofei Zhang, Biaosheng Luo, Yixun Liu, Cheng Li"
+authorlist: "Xiaofei Zhang, Biaosheng Luo, Yixun Liu, Hongtao Qian, Cheng Li"
 status: 'noyet'
 ---
 **Abstract:**
