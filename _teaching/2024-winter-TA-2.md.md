@@ -1,7 +1,7 @@
 ---
 title: "Numerical Analysis"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-winter-teaching-2
 venue: "GTIIT, ME"
 date: 2024-10-11
