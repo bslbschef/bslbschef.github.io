@@ -3,7 +3,7 @@ title: "Development of UAV‑based system forsimultaneous wind andparticle measu
 collection: publications
 permalink: /publications/EF1
 # excerpt: "An image process based method for analyzing particle segregation in fluidized bed"
-date: 2024-04-01
+date: 2025-06-25
 venue: "Experiments in Fluids"
 year: 2025
 paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3"
