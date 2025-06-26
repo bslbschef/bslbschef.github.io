@@ -8,7 +8,7 @@ permalink: /projects/pro6
 # year: 2025 -->
 # <!-- paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3" -->
 code: "https://github.com/likuanppd/STABLE"
-authorlist: "Reinforcement Learning (PPO), MuJoCo Simulation, Raspberry Pi  "
+authorlist: "Reinforcement Learning (PPO), MuJoCo Simulation, Raspberry Pi"
 startTime: Nov 2024
 endTime: Feb 2025
 status: 'pub'
