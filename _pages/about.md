@@ -13,7 +13,7 @@ redirect_from:
 ## About me
 <!-- I am currently a second-year master student at GTIIT, supervised by Prof. [Cheng Li](https://sites.gtiit.edu.cn/cligroup/), with Prof. Zvi Pinhas Bar-Yoseph serving as my co-supervisor at Technion. I completed my B.E. degree in Automation at Central South University. -->
 
-I am currently a second-year master’s student in Mechanical Engineering at the Technion–Israel Institute of Technology, enrolled in a joint training program with GTIIT. My primary advisor is Prof. [Cheng Li](https://sites.gtiit.edu.cn/cligroup/) at GTIIT, and I am co-supervised by Prof. [Zvi Pinhas Bar-Yoseph](https://meeng.technion.ac.il/en/member/zvi-pinhas-bar-yoseph/) at Technion. I completed my B.E. degree in Automation at Central South University.
+I am currently a second-year master's student in Mechanical Engineering at the Technion–Israel Institute of Technology, enrolled in a joint training program with GTIIT. My primary advisor is Prof. [Cheng Li](https://sites.gtiit.edu.cn/cligroup/) at GTIIT, and I am co-supervised by Prof. [Zvi Pinhas Bar-Yoseph](https://meeng.technion.ac.il/en/member/zvi-pinhas-bar-yoseph/) at Technion. I completed my B.E. degree in Automation at Central South University.
 
 <!-- My research focuses on developing UAV-based platforms for simultaneous wind and particle measurements in the atmospheric boundary layer. -->
 
@@ -30,7 +30,7 @@ Currently, my ongoing research includes:
 For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments. -->
 My research primarily centers on fluid dynamics and intelligent measurement technologies, emphasizing experimental and computational methods.
 
-Currently, I'm looking forward the Phd position. For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments.
+<u>**Currently, I'm looking forward the Phd position.**</u> For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments.
 
 ## Publications
 <ul>{% for post in site.publications reversed %}
