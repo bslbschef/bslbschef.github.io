@@ -33,7 +33,10 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    <b><i>Key Technologies: </i></b>   {{post.authorlist}}
+
+    {% if post.status == 'pub' %}
+      <b><i>Key Technologies: </i></b>   {{post.authorlist}}
+    {% endif %}
     <!-- {% assign authors = post.authorlist | split: ", " %}
     {% for a in authors %}
       <b>{{a}}</b>
