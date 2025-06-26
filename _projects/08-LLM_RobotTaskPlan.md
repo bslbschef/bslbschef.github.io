@@ -1,12 +1,12 @@
 ---
-title: "Implementing a deep generative diffusion model aimed at correcting UAV-derived wind speed measurements, with preliminary outcomes leading to a patent application"
+title: "Employing Physics-Informed Neural Networks (PINN) for reconstructing wind fields from sparse UAV observations, validated through field experiments"
 collection: projects
-permalink: /projects/pro2
-# excerpt: "This study presents a custom hexacopter UAV platform that integrates a full-scale sonic anemometer with a multi-resolution digital in-line holography system to capture real-time, three-dimensional wind vectors and micrometer- to millimeter-scale particle distributions in the atmospheric boundary layer, using time- and frequency-domain corrections to eliminate rotor-induced disturbances and achieve high-precision turbulence statistics and particle sizing."
+permalink: /projects/pro8
+# <!-- excerpt: "This study presents a custom hexacopter UAV platform that integrates a full-scale sonic anemometer with a multi-resolution digital in-line holography system to capture real-time, three-dimensional wind vectors and micrometer- to millimeter-scale particle distributions in the atmospheric boundary layer, using time- and frequency-domain corrections to eliminate rotor-induced disturbances and achieve high-precision turbulence statistics and particle sizing."
 # date: 2025-06-25
 # venue: "Experiments in Fluids"
-# year: 2025
-# paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3"
+# year: 2025 -->
+# <!-- paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3" -->
 code: "https://github.com/likuanppd/STABLE"
 authorlist: "Reinforcement Learning (PPO), MuJoCo Simulation, Raspberry Pi  "
 startTime: Nov 2024
