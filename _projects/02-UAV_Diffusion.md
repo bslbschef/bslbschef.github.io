@@ -1,5 +1,5 @@
 ---
-title: "Dynamic in situ measurement of axial segregation of E-CAT particles in a bubbling fluidized bed"
+title: "Implementing a deep generative diffusion model aimed at correcting UAV-derived wind speed measurements, with preliminary outcomes leading to a patent application"
 collection: projects
 permalink: /projects/pro2
 excerpt: "An image process based method for analyzing particle segregation in fluidized bed"

@@ -1,5 +1,5 @@
 ---
-title: "Dynamic in situ measurement of axial segregation of E-CAT particles in a bubbling fluidized bed"
+title: "Employing Physics-Informed Neural Networks (PINN) for reconstructing wind fields from sparse UAV observations, validated through field experiments"
 collection: projects
 permalink: /projects/pro1
 excerpt: "An image process based method for analyzing particle segregation in fluidized bed"
