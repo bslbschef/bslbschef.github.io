@@ -2,7 +2,7 @@
 title: "Development of UAV‑based system forsimultaneous wind andparticle measurements intheatmospheric boundary layer"
 collection: publications
 permalink: /publications/EF1
-# excerpt: "An image process based method for analyzing particle segregation in fluidized bed"
+excerpt: "This study presents a custom hexacopter UAV platform that integrates a full-scale sonic anemometer with a multi-resolution digital in-line holography system to capture real-time, three-dimensional wind vectors and micrometer- to millimeter-scale particle distributions in the atmospheric boundary layer, using time- and frequency-domain corrections to eliminate rotor-induced disturbances and achieve high-precision turbulence statistics and particle sizing."
 date: 2025-06-25
 venue: "Experiments in Fluids"
 year: 2025

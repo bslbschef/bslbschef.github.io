@@ -2,7 +2,7 @@
 title: "Implementing a deep generative diffusion model aimed at correcting UAV-derived wind speed measurements, with preliminary outcomes leading to a patent application"
 collection: projects
 permalink: /projects/pro2
-excerpt: "An image process based method for analyzing particle segregation in fluidized bed"
+# excerpt: "An image process based method for analyzing particle segregation in fluidized bed"
 date: 2024-04-01
 venue: "Chemical Engineering Journal"
 year: 2024
