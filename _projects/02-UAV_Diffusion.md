@@ -8,9 +8,9 @@ permalink: /projects/pro2
 # year: 2025
 # paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3"
 code: "https://github.com/likuanppd/STABLE"
-# authorlist: "Biaosheng Luo, Baiyu Lu, Xi Gao, Cheng Li"
-startTime: 2025-03-10
-endTime: 2025-07-10
+authorlist: "Reinforcement Learning (PPO), MuJoCo Simulation, Raspberry Pi  "
+startTime: Nov 2024
+endTime: Feb 2025
 status: 'pub'
 ---
 **Abstract:**

@@ -59,7 +59,7 @@
     <!-- {% endfor %}<br> -->
     {% if post.status == 'pub' %}
       <!-- From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>. -->
-      <b>Timeline: </b> From {{post.startTime}} to {{post.endTime}}.
+      <b>Timeline: </b> {{post.startTime}} - {{post.endTime}}.
     {% elsif post.status == 'acc' %}
       To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
     {% elsif post.status == 'sub' %}
