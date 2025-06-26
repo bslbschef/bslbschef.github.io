@@ -33,6 +33,10 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
+
+    {% if post.status == 'pub' %}
+      <b>Key Technologies: </b>   {{post.authorlist}}<br>
+    {% endif %}
     
     <!-- {% assign authors = post.authorlist | split: ", " %}
     {% for a in authors %}
@@ -54,7 +58,8 @@
       {% endif %} -->
     <!-- {% endfor %}<br> -->
     {% if post.status == 'pub' %}
-      From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>.
+      <!-- From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>. -->
+      From {{post.startTime}} to {{post.endTime}}.
     {% elsif post.status == 'acc' %}
       To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
     {% elsif post.status == 'sub' %}
@@ -70,10 +75,6 @@
     {% endif %}
     {% if post.video %}
       <a href="{{ post.video }}" rel="permalink">[video]</a>
-    {% endif %}
-
-    {% if post.status == 'pub' %}
-      <b>Key Technologies: </b>   {{post.authorlist}}<br>
     {% endif %}
     </li>
  </article>
