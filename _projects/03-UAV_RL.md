@@ -1,15 +1,11 @@
 ---
-title: "Dynamic in situ measurement of axial segregation of E-CAT particles in a bubbling fluidized bed"
+title: "Implementing a deep generative diffusion model aimed at correcting UAV-derived wind speed measurements, with preliminary outcomes leading to a patent application"
 collection: projects
 permalink: /projects/pro3
 excerpt: "An image process based method for analyzing particle segregation in fluidized bed"
 date: 2024-04-01
 venue: "Chemical Engineering Journal"
 year: 2024
-paperurl: "https://www.sciencedirect.com/science/article/pii/S1385894724013469"
-# code: ""
-authorlist: "Biaosheng Luo, Baiyu Lu, Xi Gao, Cheng Li"
-status: 'pub'
 ---
 **Abstract:**
 
