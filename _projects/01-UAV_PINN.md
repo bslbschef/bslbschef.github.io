@@ -8,7 +8,7 @@ permalink: /projects/pro1
 # year: 2025
 # paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3"
 code: "https://github.com/likuanppd/STABLE"
-# authorlist: "Biaosheng Luo, Baiyu Lu, Xi Gao, Cheng Li"
+authorlist: "Biaosheng Luo, Baiyu Lu, Xi Gao, Cheng Li"
 startTime: 2024-08-10
 endTime: 2025-02-28
 status: 'pub'

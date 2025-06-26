@@ -33,9 +33,11 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
+    <b><i>Key Technologies: </i></b>
     {% assign authors = post.authorlist | split: ", " %}
     {% for a in authors %}
-      {% if a==authors.last %}
+      <b>{{a}}</b>
+      <!-- {% if a==authors.last %}
           {% if a=='Biaosheng Luo' %}
             <b>Biaosheng Luo</b>.
           {% else %}
@@ -49,7 +51,7 @@
           {% else %}
             {{a}},
           {% endif %}
-      {% endif %}
+      {% endif %} -->
     {% endfor %}<br>
       {% if post.status == 'pub' %}
         From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>.
