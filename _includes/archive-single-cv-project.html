@@ -53,24 +53,24 @@
           {% endif %}
       {% endif %} -->
     <!-- {% endfor %}<br> -->
-      {% if post.status == 'pub' %}
-        From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>.
-      {% elsif post.status == 'acc' %}
-        To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
-      {% elsif post.status == 'sub' %}
-        Under review.
-      {% else %}
-        <i>Work in progress.</i>
-      {% endif %}
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" rel="permalink">[Download paper]</a>
-      {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}" rel="permalink">[code]</a>
-      {% endif %}
-      {% if post.video %}
-        <a href="{{ post.video }}" rel="permalink">[video]</a>
-      {% endif %}
+    {% if post.status == 'pub' %}
+      From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>.
+    {% elsif post.status == 'acc' %}
+      To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
+    {% elsif post.status == 'sub' %}
+      Under review.
+    {% else %}
+      <i>Work in progress.</i>
+    {% endif %}
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" rel="permalink">[Download paper]</a>
+    {% endif %}
+    {% if post.code %}
+      <a href="{{ post.code }}" rel="permalink">[code]</a>
+    {% endif %}
+    {% if post.video %}
+      <a href="{{ post.video }}" rel="permalink">[video]</a>
+    {% endif %}
     </li>
  </article>
 </div>
