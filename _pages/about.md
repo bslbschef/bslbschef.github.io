@@ -30,7 +30,7 @@ Currently, my ongoing research includes:
 For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments. -->
 My research primarily centers on fluid dynamics and intelligent measurement technologies, emphasizing experimental and computational methods.
 
-<u>**Currently, I'm looking forward the Phd position.**</u> For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments.
+<u>**Currently, I'm looking forward the Phd position.**</u> For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments. 
 
 ## Publications
 <ul>{% for post in site.publications reversed %}
