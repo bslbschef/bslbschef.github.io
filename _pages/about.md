@@ -30,7 +30,15 @@ Currently, my ongoing research includes:
 For doctoral studies, I plan to extend my research into robotics, focusing on bio-inspired robots such as flapping-wing drones and humanoid robots. My objective is to incorporate physics-informed reinforcement learning techniques to enhance robotic control, efficiency, and autonomy in complex environments. -->
 My research primarily centers on fluid dynamics and intelligent measurement technologies, emphasizing experimental and computational methods.
 
-<u>Currently, I'm actively seeking PhD opportunities.</u> For doctoral studies, I am interested in expanding my research into multiple exciting directions, including bio-inspired robotics (such as flapping-wing drones, humanoid robots, and bipedal robots), large language models and AI applications, as well as the intersection of physics-informed machine learning with autonomous systems. My research interests encompass leveraging advanced computational techniques—including reinforcement learning, neural networks, and large-scale models—to enhance robotic control, improve system intelligence, and advance autonomous capabilities across diverse and challenging environments. 
+<!-- <u>Currently, I'm actively seeking PhD opportunities.</u> For doctoral studies, I am interested in expanding my research into multiple exciting directions, including bio-inspired robotics (such as flapping-wing drones, humanoid robots, and bipedal robots), large language models and AI applications, as well as the intersection of physics-informed machine learning with autonomous systems. My research interests encompass leveraging advanced computational techniques—including reinforcement learning, neural networks, and large-scale models—to enhance robotic control, improve system intelligence, and advance autonomous capabilities across diverse and challenging environments.  -->
+<u>I am currently seeking PhD positions and welcome opportunities in any of the following areas, each of which could form the basis of my doctoral research</u>:
+
+- **Bio-inspired robotics** (e.g. flapping-wing drones, humanoid and bipedal robots)  
+- **Large language models & AI applications**  
+- **Physics-informed machine learning for autonomous systems**  
+
+My goal is to leverage advanced computational methods—reinforcement learning, deep neural networks, and large-scale modeling—to push the frontiers of robotic control and autonomy. I would be delighted to collaborate with a professor working in any of these fields.  
+
 
 ## Publications
 <ul>{% for post in site.publications reversed %}
