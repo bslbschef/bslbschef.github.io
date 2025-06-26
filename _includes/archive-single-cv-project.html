@@ -34,7 +34,7 @@
       {% endif %}
     </h3>
     <b><i>Key Technologies: </i></b>
-    {% assign authors = post.authorlist | split: ", " %}
+    <!-- {% assign authors = post.authorlist | split: ", " %}
     {% for a in authors %}
       <b>{{a}}</b>
       <!-- {% if a==authors.last %}
@@ -52,7 +52,7 @@
             {{a}},
           {% endif %}
       {% endif %} -->
-    {% endfor %}<br>
+    {% endfor %}<br> -->
       {% if post.status == 'pub' %}
         From <b><i>{{post.startTime}}</i></b> to <b><i>{{post.endTime}}</i></b>.
       {% elsif post.status == 'acc' %}
