@@ -39,5 +39,5 @@ Currently, I'm looking forward the Phd position. For doctoral studies, I plan to
 
 ## Projects
 <ul>{% for post in site.projects reversed %}
-{% include archive-single-cv.html %}
+{% include archive-single-cv-project.html %}
 {% endfor %}</ul>

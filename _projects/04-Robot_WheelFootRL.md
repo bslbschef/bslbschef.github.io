@@ -8,7 +8,8 @@ permalink: /projects/pro4
 # year: 2025 -->
 # <!-- paperurl: "https://link.springer.com/article/10.1007/s00348-025-04064-3" -->
 code: "https://github.com/likuanppd/STABLE"
-authorlist: From 2024/08/10 - 2025/02/10
+startTime: 2024-08-10
+endTime: 2025-02-28
 status: 'pub'
 ---
 **Abstract:**
