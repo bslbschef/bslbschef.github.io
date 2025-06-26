@@ -29,3 +29,8 @@ For doctoral studies, I plan to extend my research into robotics, focusing on bi
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+## Projects
+<ul>{% for post in site.projects reversed %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
