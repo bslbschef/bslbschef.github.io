@@ -45,26 +45,7 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Selected Projects
-
-### 🧠 Robotics and Embodied AI
+## Projects 
 <ul>{% for post in site.projects reversed %}
-<!-- {% if post.title contains "Large Language Model" or post.title contains "Reinforcement Learning" %} -->
-{% if post.path contains "Robot" or post.path contains "LLM" %}
 {% include archive-single-cv-project.html %}
-{% endif %}
-{% endfor %}</ul>
-
-### 🌪️ UAV-Based Sensing and Control
-<ul>{% for post in site.projects reversed %}
-{% if post.path contains "UAV" %}
-{% include archive-single-cv-project.html %}
-{% endif %}
-{% endfor %}</ul>
-
-### 📷 Imaging and Flow Characterization
-<ul>{% for post in site.projects reversed %}
-{% if post.path contains "CycleGAN" or post.path contains "DIH" %}
-{% include archive-single-cv-project.html %}
-{% endif %}
 {% endfor %}</ul>
