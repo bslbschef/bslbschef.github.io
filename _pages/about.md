@@ -51,7 +51,7 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 
 ## Selected Projects
 
-### 🧠 Robotics and Embodied AI
+### ● Robotics and Embodied AI
 <ul>{% for post in site.projects reversed %}
 {% assign filename = post.path | split: "/" | last | split: "." | first %}
 {% if filename contains "Robot" or filename contains "LLM" %}
@@ -59,7 +59,7 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% endif %}
 {% endfor %}</ul>
 
-### 🌪️ UAV-Based Sensing and Control
+### ● UAV-Based Sensing and Control
 <ul>{% for post in site.projects reversed %}
 {% assign filename = post.path | split: "/" | last | split: "." | first %}
 {% if filename contains "UAV" %}
@@ -67,7 +67,7 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% endif %}
 {% endfor %}</ul>
 
-### 📷 Imaging and Flow Characterization 
+### ● Imaging and Flow Characterization 
 <ul>{% for post in site.projects reversed %}
 {% assign filename = post.path | split: "/" | last | split: "." | first %}
 {% if filename contains "CycleGAN" or filename contains "DIH" %}
