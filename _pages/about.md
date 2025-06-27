@@ -67,7 +67,7 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% endif %}
 {% endfor %}</ul>
 
-### 📷 Imaging and Flow Characterization
+### 📷 Imaging and Flow Characterization 
 <ul>{% for post in site.projects reversed %}
 {% assign filename = post.path | split: "/" | last | split: "." | first %}
 {% if filename contains "CycleGAN" or filename contains "DIH" %}
