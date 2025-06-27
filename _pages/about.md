@@ -18,7 +18,7 @@ I am currently a second-year master's student in Mechanical Engineering at the T
 <!-- My research focuses on developing UAV-based platforms for simultaneous wind and particle measurements in the atmospheric boundary layer. -->
 
 ## Research interests
-<!-- My research primarily centers on fluid dynamics and intelligent measurement technologies, emphasizing experimental and computational methods.
+<!-- My research primarily centers on fluid dynamics and intelligent measurement technologies, emphasizing experimental and computational methods. 
 
 Previously, I conducted research on particle segregation phenomena in fluidized beds, where I developed a non-intrusive characterization approach combining image segmentation techniques with deep learning (VGG19 classifier). This method effectively addresses challenges associated with invasive measurement techniques and has been published in Chemical Engineering Journal. Additionally, I contributed to designing and developing a UAV-based integrated measurement platform capable of simultaneous wind speed and particle data collection at altitudes up to 1000 meters, published in Experiments in Fluids and presented at the APS Conference in 2023.
 
