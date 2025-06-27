@@ -46,31 +46,31 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Projects 
+<!-- ## Projects 
 <ul>{% for post in site.projects reversed %}
 {% include archive-single-cv-project.html %}
 {% endfor %}</ul>
+ -->
 
-<!-- ## Selected Projects
+## Selected Projects
 
 ### 🧠 Robotics and Embodied AI
 <ul>{% for post in site.projects reversed %}
-{% if post.title contains "Large Language Model" or post.title contains "Reinforcement Learning" %}
-{% if post.path contains "Robot" or post.path contains "LLM" %}
+{% if post.name contains "Robot" or post.name contains "LLM" %}
 {% include archive-single-cv-project.html %}
 {% endif %}
 {% endfor %}</ul>
 
 ### 🌪️ UAV-Based Sensing and Control
 <ul>{% for post in site.projects reversed %}
-{% if post.path contains "UAV" %}
+{% if post.name contains "UAV" %}
 {% include archive-single-cv-project.html %}
 {% endif %}
 {% endfor %}</ul>
 
 ### 📷 Imaging and Flow Characterization
 <ul>{% for post in site.projects reversed %}
-{% if post.path contains "CycleGAN" or post.path contains "DIH" %}
+{% if post.name contains "CycleGAN" or post.name contains "DIH" %}
 {% include archive-single-cv-project.html %}
-{% endif %}  
-{% endfor %}</ul> -->
+{% endif %}
+{% endfor %}</ul>
