@@ -66,5 +66,5 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 <ul>{% for post in site.projects reversed %}
 {% if post.path contains "CycleGAN" or post.path contains "DIH" %}
 {% include archive-single-cv-project.html %}
-{% endif %}
+{% endif %}  
 {% endfor %}</ul>
