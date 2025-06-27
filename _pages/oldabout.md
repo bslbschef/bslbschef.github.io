@@ -48,6 +48,11 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
+<!-- ## Projects 
+<ul>{% for post in site.projects reversed %}
+{% include archive-single-cv-project.html %}
+{% endfor %}</ul>
+ -->
 
 ## Selected Projects
 
