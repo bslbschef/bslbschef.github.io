@@ -40,7 +40,7 @@ My research primarily centers on fluid dynamics and intelligent measurement tech
 - **Large language models & AI applications**  
 - **Physics-informed machine learning for autonomous systems**  
 
-My goal is to leverage advanced computational methods—reinforcement learning, deep neural networks, and large-scale modeling—to push the frontiers of robotic control and autonomy. I would be delighted to collaborate with a professor working in any of these fields.   -->
+My goal is to leverage advanced computational methods—reinforcement learning, deep neural networks, and large-scale modeling—to push the frontiers of robotic control and autonomy. I would be delighted to collaborate with a professor working in any of these fields1.   -->
 
 
 ## Publications
