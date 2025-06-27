@@ -46,11 +46,16 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Selected Projects
+## Projects 
+<ul>{% for post in site.projects reversed %}
+{% include archive-single-cv-project.html %}
+{% endfor %}</ul>
+
+<!-- ## Selected Projects
 
 ### 🧠 Robotics and Embodied AI
 <ul>{% for post in site.projects reversed %}
-<!-- {% if post.title contains "Large Language Model" or post.title contains "Reinforcement Learning" %} -->
+{% if post.title contains "Large Language Model" or post.title contains "Reinforcement Learning" %}
 {% if post.path contains "Robot" or post.path contains "LLM" %}
 {% include archive-single-cv-project.html %}
 {% endif %}
@@ -68,4 +73,4 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% if post.path contains "CycleGAN" or post.path contains "DIH" %}
 {% include archive-single-cv-project.html %}
 {% endif %}  
-{% endfor %}</ul>
+{% endfor %}</ul> -->
