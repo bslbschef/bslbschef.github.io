@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-## Projects
-
 ### ● Robotics and Embodied AI
 <ul>{% for post in site.projects reversed %}
 {% assign filename = post.path | split: "/" | last | split: "." | first %}
