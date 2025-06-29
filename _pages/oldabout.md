@@ -1,8 +1,8 @@
 ---
 permalink: /
-layout: archive
+layout: archive1
 title: "Biaosheng Luo Homepage"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /ab1out/
   - /ab1out.html
