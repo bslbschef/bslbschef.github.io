@@ -49,7 +49,7 @@ My goal is to leverage advanced computational methods—reinforcement learning, 
 {% endfor %}</ul>
 
 
-## Projects
+## Projects1
 
 ### ● Robotics and Embodied AI
 <ul>{% for post in site.projects reversed %}
