@@ -4,10 +4,10 @@ layout: archive
 title: "Biaosheng Luo Homepage"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
-  - /aboutme
-  - /_pages/about
+  - /ab1out/
+  - /ab1out.html
+  - /ab1outme
+  - /_pag1es/a1bout
 ---
 
 ## About me
