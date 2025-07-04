@@ -19,7 +19,7 @@ I am currently a second-year master's student in Mechanical Engineering at the T
 
 My research interests span bio-inspired robotics, particularly focusing on bipedal robots, flapping-wing drones, and humanoid robots. I'm committed to integrating physics-informed machine learning and reinforcement learning techniques to enhance robotic locomotion, control efficiency, and autonomy, especially in complex and dynamic environments. 
 
-Additionally, I have experience with fluid dynamics and intelligent measurement technologies, combining experimental and computational approaches. Currently, I am actively seeking PhD opportunities to further explore and expand these interdisciplinary research directions.
+Additionally, I have experience with fluid dynamics and intelligent measurement technologies, combining experimental and computational approaches. <u>Currently, I am actively seeking PhD opportunities to further explore and expand these interdisciplinary research directions</u>.
 
 
 ## Publications
