@@ -13,7 +13,7 @@ redirect_from:
 ## About me
 <!-- I am currently a second-year master student at GTIIT, supervised by Prof. [Cheng Li](https://sites.gtiit.edu.cn/cligroup/), with Prof. Zvi Pinhas Bar-Yoseph serving as my co-supervisor at Technion. I completed my B.E. degree in Automation at Central South University. -->
 
-I am currently a second-year master's student in Mechanical Engineering at the Technion–Israel Institute of Technology, enrolled in a joint training program with GTIIT. My primary advisor is Prof. [<u>Cheng Li</u>](https://sites.gtiit.edu.cn/cligroup/) at GTIIT, and I am co-supervised by Prof. [<u>Zvi Pinhas Bar-Yoseph</u>](https://meeng.technion.ac.il/en/member/zvi-pinhas-bar-yoseph/) at Technion. I completed my B.E. degree in Automation at Central South University.
+I am currently a second-year master's student in Mechanical Engineering at the Technion–Israel Institute of Technology, enrolled in a joint training program with GTIIT. My primary advisor is Prof. [Cheng Li](https://sites.gtiit.edu.cn/cligroup/) at GTIIT, and I am co-supervised by Prof. [Zvi Pinhas Bar-Yoseph](https://meeng.technion.ac.il/en/member/zvi-pinhas-bar-yoseph/) at Technion. I completed my B.E. degree in Automation at Central South University.
 
 ## Research interests
 
