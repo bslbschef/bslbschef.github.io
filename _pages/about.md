@@ -17,10 +17,15 @@ I am currently a second-year master's student in Mechanical Engineering at the T
 
 ## Research interests
 
-My research interests span bio-inspired robotics, particularly focusing on bipedal robots, flapping-wing drones, and humanoid robots. I'm committed to integrating physics-informed machine learning and reinforcement learning techniques to enhance robotic locomotion, control efficiency, and autonomy, especially in complex and dynamic environments. 
+<!-- My research interests span bio-inspired robotics, particularly focusing on bipedal robots, flapping-wing drones, and humanoid robots. I'm committed to integrating physics-informed machine learning and reinforcement learning techniques to enhance robotic locomotion, control efficiency, and autonomy, especially in complex and dynamic environments. 
 
-Additionally, I have experience with fluid dynamics and intelligent measurement technologies, combining experimental and computational approaches. <u>Currently, I am actively seeking PhD opportunities to further explore and expand these interdisciplinary research directions</u>.
+Additionally, I have experience with fluid dynamics and intelligent measurement technologies, combining experimental and computational approaches. <u>Currently, I am actively seeking PhD opportunities to further explore and expand these interdisciplinary research directions</u>. -->
 
+My research interests include bio-inspired robotics, with particular enthusiasm for bipedal robots, flapping-wing drones, and humanoid systems. I am especially interested in integrating physics-informed machine learning and reinforcement learning to enhance robotic locomotion, control efficiency, and autonomy in complex, dynamic environments.
+
+In previous projects, I have worked on UAV-based environmental sensing and data-driven modeling, combining experimental measurements with computational techniques such as LSTM and PINNs. These experiences have built a strong foundation in perception-driven modeling and intelligent system design.
+
+<u>Currently, I am actively seeking PhD opportunities to extend my research toward legged robotics and other interdisciplinary areas at the intersection of machine learning, control, and physical modeling</u>.
 
 ## Publications
 <ul>{% for post in site.publications reversed %}
