@@ -25,7 +25,7 @@ My research interests include bio-inspired robotics, with particular enthusiasm 
 
 In previous projects, I have worked on UAV-based environmental sensing and data-driven modeling, combining experimental measurements with computational techniques such as LSTM and PINNs. These experiences have built a strong foundation in perception-driven modeling and intelligent system design.
 
-<u>Currently, I am actively seeking PhD opportunities to extend my research toward legged robotics and other interdisciplinary areas at the intersection of machine learning, control, and physical modeling</u>.
+<!-- <u>Currently, I am actively seeking PhD opportunities to extend my research toward legged robotics and other interdisciplinary areas at the intersection of machine learning, control, and physical modeling</u>. -->
 
 ## Publications
 <ul>{% for post in site.publications reversed %}
